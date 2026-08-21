@@ -34,8 +34,6 @@ The app uses a normal, decorated Windows window: it starts at 1200×780, does no
 - Native desktop experience without the bloat
 - No tab switching or "use here" interruptions
 - Lightweight wrapper around WhatsApp Web
-- System tray support
-- Always-on-top option
 
 ## Troubleshooting window behavior
 
